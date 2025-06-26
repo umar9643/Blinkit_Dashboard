@@ -45,6 +45,9 @@ The dashboard includes analysis on:
 
 ## 📷 Preview
 
+[![Dashboard Screenshot](https://github.com/umar9643/Blinkit_Dashboard/blob/main/Screenshot%202025-06-26%20142022.png?raw=true)](https://github.com/umar9643/Blinkit_Dashboard/blob/main/Screenshot%202025-06-26%20142022.png)
+
+
 > `![Dashboard Screenshot](https://github.com/umar9643/Blinkit_Dashboard/blob/main/Screenshot%202025-06-26%20142022.png)`
 
 ---
