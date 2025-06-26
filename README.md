@@ -45,8 +45,6 @@ The dashboard includes analysis on:
 
 ## 📷 Preview
 
-> *(Upload a screenshot of your dashboard in the repo and link it here)*  
-> Example:  
 > `![Dashboard Screenshot](images/dashboard_preview.png)`
 
 ---
@@ -66,8 +64,7 @@ It helps stakeholders make data-driven decisions on inventory planning, promotio
 ## 👤 Author
 
 **Umar Alam**  
-🔗 **LinkedIn:** [Umar Alam](https://www.linkedin.com/in/umar-alam-918320275)  
-💼 **GitHub:** [@umaralam02](https://github.com/umaralam02)  
+🔗 **LinkedIn:** [Umar Alam](www.linkedin.com/in/umar-alam-a1b2c3)  
 🧠 **Goal:** To create real-world projects that reflect strong analytical thinking and storytelling.
 
 
