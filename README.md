@@ -48,8 +48,6 @@ The dashboard includes analysis on:
 [![Dashboard Screenshot](https://github.com/umar9643/Blinkit_Dashboard/blob/main/Screenshot%202025-06-26%20142022.png?raw=true)](https://github.com/umar9643/Blinkit_Dashboard/blob/main/Screenshot%202025-06-26%20142022.png)
 
 
-> `![Dashboard Screenshot](https://github.com/umar9643/Blinkit_Dashboard/blob/main/Screenshot%202025-06-26%20142022.png)`
-
 ---
 
 ## 💼 Business Use Case
@@ -66,9 +64,13 @@ It helps stakeholders make data-driven decisions on inventory planning, promotio
 
 ## 👤 Author
 
-**Umar Alam**  
-🔗 **LinkedIn:** [Umar Alam](www.linkedin.com/in/umar-alam-a1b2c3)  
-🧠 **Goal:** To create real-world projects that reflect strong analytical thinking and storytelling.
+📬 **Contact**  
+For feedback, suggestions, or collaboration, feel free to reach out via:  
+
+**GitHub**: [umar9643](https://github.com/umar9643)  
+**LinkedIn**: [Umar Alam's Profile](https://www.linkedin.com/in/umar-alam-a1b2c3)  
+**Email**: [alamumar258455@gmail.com](mailto:alamumar258455@gmail.com)
+
 
 
 ---
